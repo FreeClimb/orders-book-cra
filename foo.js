@@ -1,0 +1,1 @@
+export default !global._babelPolyfill ? require('babel-polyfill') : null;
